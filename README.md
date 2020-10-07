@@ -2,9 +2,9 @@
 Tool for turning an image file into a mappy .mar binary file. Each Pixel Is the same as 1 tile. Uses color coding for different tiles.
 
 #TODO
-make changing color coded tiles more newb friendly
-remove hard coded variables such as filename(sample.png)
-allow alternate tilesets to go along side custom color coding
+* make changing color coded tiles more newb friendly
+* remove hard coded variables such as filename(sample.png)
+* allow alternate tilesets to go along side custom color coding
 
 #Color Codes
 * RGB(0,38,248)     - Ocean
